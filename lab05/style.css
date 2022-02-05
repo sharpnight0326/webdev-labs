@@ -133,6 +133,7 @@ button {
     color: #000;
 }
 
-.dyslexia-mode h2{
-    max-width: 100%; /* standard width */
+.dyslexia-mode .content{
+    width: 80vw;
+    margin: auto;
 }
